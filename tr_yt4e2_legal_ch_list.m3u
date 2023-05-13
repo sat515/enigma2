@@ -45,10 +45,10 @@ https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:0 tvg-id="HalkTV.tr" tvg-name="Halk TV (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/hh/halk_tv_tr.png" group-title="TR HABER",Halk TV (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@Halktvkanali/live
-#EXTINF:0 tvg-id="SozcuTV.tr" tvg-name="Sözcü TV (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/hh/halk_tv_tr.png" group-title="TR HABER",Sozcu TV (YT)
+#EXTINF:0 tvg-id="SozcuTV.tr" tvg-name="Sözcü TV (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/hh/halk_tv_tr.png" group-title="TR HABER",Sözcü TV (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@Sozcutelevizyonu/live
-#EXTINF:0 tvg-id="Haberturk.tr" tvg-name="Habertürk" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber_turk.png" group-title="TR HABER",Habertürk
-https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:0 tvg-id="Haberturk.tr" tvg-name="Habertürk TV (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber_turk.png" group-title="TR HABER",Habertürk (YT)
+http://127.0.0.1:8088/https://www.youtube.com/@haberturktv/live
 #EXTINF:0 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bloomberg-ht-us-tr.png" group-title="TR HABER",Bloomberg HT
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:0 tvg-id="Ekoturk.tr" tvg-name="Ekoturk" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekoturk-tr.png" group-title="TR HABER",Ekoturk
