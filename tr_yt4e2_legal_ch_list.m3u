@@ -1,61 +1,101 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr.xml,https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/tr/turksatkablo.com.tr.epg.xml,https://my.iptv.community/epg_temp_dl/output-epgs/turkey.xml"
-#EXTINF:0 tvg-id="TRTSpor.tr" tvg-name="TRT Spor" tvg-logo="https://i.imgur.com/jiTZGme.png" group-title="TR SPOR",TRT Spor
-https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png" group-title="TR BELGESEL",TRT Belgesel
-https://mn-nl.mncdn.com/blutv_trtbelgesel2/live.m3u8
-#EXTINF:0 tvg-id="TGRTBelgesel.tr" tvg-name="TGRT Belgesel" tvg-logo="https://i.imgur.com/zhCeooV.png" group-title="TR BELGESEL",TGRT Belgesel
-https://tv.ensonhaber.com/tv/tr//tgrtbelgesel/index.m3u8
-#EXTINF:0 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png" group-title="TR ULUSAL",TRT 1
-https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-logo="https://i.imgur.com/h9Q88CW.png" group-title="TR ULUSAL",TRT 2
-http://167.114.115.233:8080/trt2fhd/index.m3u8
-#EXTINF:0 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/aHD_250x150.png" group-title="TR ULUSAL",ATV
-https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1670362893&st=JwQZXjiQ-CIl-KlQeYKm3Q&sid=4yg5ay3f73oc&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
-#EXTINF:0 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://i.imgur.com/le0hb7q.png" group-title="TR ULUSAL",Star TV
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:0 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/show_250x150.png" group-title="TR ULUSAL",Show TV
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:0 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://i.imgur.com/ULv7b06.png" group-title="TR ULUSAL",Kanal D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:0 tvg-id="FoxTurkey.tr" tvg-name="Fox Turkey" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Fox34.png" group-title="TR ULUSAL",FOX TV
-https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-#EXTINF:0 tvg-id="TV8.tr" tvg-name="TV 8" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/TV8_250x150.png" group-title="TR ULUSAL",TV 8
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:0 tvg-id="TV85.tr" tvg-name="TV 8.5" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv85_tr.png" group-title="TR ULUSAL",TV 8.5
-https://tv85.blutv.com/blutv_tv8_5_live/live.m3u8
-#EXTINF:-1 tvg-id="TLCTurkey.tr" tvg-name="TLC Turkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="TR ULUSAL",TLC
-https://tlc.blutv.com/blutv_tlc_live/live.m3u8
-#EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://i.imgur.com/eXKohZ5.png" group-title="TR ULUSAL",360
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:0 tvg-id="DMAXTurkey.tr" tvg-name="DMAX Turkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/512px-DMAX_BLACK.svg.png" group-title="TR ULUSAL",DMAX
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-#EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV 4" tvg-logo="https://i.imgur.com/gnkPxVV.png" group-title="TR ULUSAL",TV4
-https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:0 tvg-id="A2TV.tr" tvg-name="A2TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_tr_2.png" group-title="TR ULUSAL",A2
-http://tv.34s.nl:8080/SLV2778/eTrxWNw0P2/347
-#EXTINF:0 tvg-id="Kanal7.tr" tvg-name="Kanal 7" tvg-logo="https://mediacms01.digiturkplay.com/channel_logo/Kanal1_7.png" group-title="TR ULUSAL",Kanal 7
-https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
-#EXTINF:0 tvg-id="Teve2.tr" tvg-name="Teve2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/teve_2_tr.png" group-title="TR ULUSAL",Teve 2
-https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:0 tvg-id="FlashTV.tr" tvg-name="Flash TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/13/Flash_TV_logosu.png" group-title="TR ULUSAL",Flash TV
-http://tv.34s.nl:8080/SLV2778/eTrxWNw0P2/108048
-#EXTINF:0 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_tr.png" group-title="TR HABER",NTV
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF:0 tvg-id="CNNTurk.tr" tvg-name="CNN Turk" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_turk.png" group-title="TR HABER",CNN Turk
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
-#EXTINF:0 tvg-id="HalkTV.tr" tvg-name="Halk TV (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/hh/halk_tv_tr.png" group-title="TR HABER",Halk TV (YT)
-http://127.0.0.1:8088/https://www.youtube.com/@Halktvkanali/live
-#EXTINF:0 tvg-id="SozcuTV.tr" tvg-name="Sözcü TV (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/hh/halk_tv_tr.png" group-title="TR HABER",Sözcü TV (YT)
+#EXTINF:0 tvg-id="SozcuTV.tr" tvg-name="Sözcü TV (YT)" group-title="TR youtube live",Sözcü TV (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@Sozcutelevizyonu/live
-#EXTINF:0 tvg-id="Haberturk.tr" tvg-name="Habertürk TV (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber_turk.png" group-title="TR HABER",Habertürk (YT)
+#EXTINF:0 tvg-id="HalkTV.tr" tvg-name="Halk TV (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/hh/halk_tv_tr.png" group-title="TR youtube live",Halk TV (YT)
+http://127.0.0.1:8088/https://www.youtube.com/@Halktvkanali/live
+#EXTINF:0 tvg-id="" tvg-name="KRT TV TV (YT)" group-title="TR youtube live",KRT TV (YT)
+http://127.0.0.1:8088/https://www.youtube.com/@KRTTVCanliYayin/live
+#EXTINF:0 tvg-id="" tvg-name="Tele 1 (YT)" group-title="TR youtube live",Tele 1 (YT)
+http://127.0.0.1:8088/https://www.youtube.com/@Tele1comtr/live
+#EXTINF:0 tvg-id="Haberturk.tr" tvg-name="Habertürk TV (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber_turk.png" group-title="TR youtube live",Habertürk (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@haberturktv/live
-#EXTINF:0 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bloomberg-ht-us-tr.png" group-title="TR HABER",Bloomberg HT
-https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
-#EXTINF:0 tvg-id="Ekoturk.tr" tvg-name="Ekoturk" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekoturk-tr.png" group-title="TR HABER",Ekoturk
-https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
-#EXTINF:0 tvg-id="HaberGlobal.tr" tvg-name="Haber Global" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber-global-tr.png" group-title="TR HABER",Haber Global
-https://mn-nl.mncdn.com/blutv_haberglobal2/live.m3u8
-#EXTINF:0 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tgrt_haber.png" group-title="TR HABER",TGRT Haber
-https://tv.ensonhaber.com/tv/tr/tgrthaber/index.m3u8
-#EXTINF:0 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt_haber.png" group-title="TR HABER",TRT Haber
-https://trthaber.blutv.com/blutv_trthaber_live/live.m3u8
+#EXTINF:0 tvg-id="NTV.tr" tvg-name="NTV (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_tr.png" group-title="TR youtube live",NTV (YT)
+http://127.0.0.1:8088/https://www.youtube.com/@NTV/live
+#EXTINF:0 tvg-id="CNNTurk.tr" tvg-name="CNN Türk (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_turk.png" group-title="TR youtube live",CNN Türk (YT)
+http://127.0.0.1:8088/https://www.youtube.com/@cnnturk/live
+#EXTINF:0 tvg-id="HaberGlobal.tr" tvg-name="Haber Global (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber-global-tr.png" group-title="TR youtube live",Haber Global (YT)
+http://127.0.0.1:8088/https://www.youtube.com/@haberglobal/live
+#EXTINF:0 tvg-id="" tvg-name="TV 100 (YT)" group-title="TR youtube live",TV 100 (YT)
+http://127.0.0.1:8088/https://www.youtube.com/@tv100/live
+#EXTINF:0 tvg-id="" tvg-name="TRT Haber (YT)" group-title="TR youtube live",TRT Haber (YT)
+http://127.0.0.1:8088/https://www.youtube.com/@trthaber/live
+#EXTINF:0 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bloomberg-ht-us-tr.png" group-title="TR youtube live",Bloomberg HT (YT)
+http://127.0.0.1:8088/https://www.youtube.com/@bloomberght/live
+#EXTINF:0 tvg-id="Ekoturk.tr" tvg-name="Ekotürk (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekoturk-tr.png" group-title="TR youtube live",Ekotürk (YT)
+https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8http://127.0.0.1:8088/https://www.youtube.com/@EKOTURKTV/live
+#EXTINF:0 tvg-id="" tvg-name="Teve 2 (YT)" group-title="TR youtube live",Teve 2 (YT)
+http://127.0.0.1:8088/https://www.youtube.com/@teve2/live
+#EXTINF:0 tvg-id="" tvg-name="EUROSTAR (web)" group-title="TR youtube live",EUROSTAR (web)
+http://127.0.0.1:8088/q=720p/http://www.eurostartv.com.tr/canli-izle
+#EXTINF:0 tvg-id="" tvg-name="PowerTürk(web)" group-title="TR youtube live",PowerTürk(web)
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
+#EXTINF:0 tvg-id="" tvg-name="PowerTürk Akustik(web)" group-title="TR youtube live",PowerTürk Akustik (web)
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1628000_sltur.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Joy Türk Akustik(YT)" group-title="TR youtube live",Joy Türk Akustik (YT)
+http://127.0.0.1:8088/https://www.youtube.com/@joyturkakustik/live
+#EXTINF:0 tvg-id="" tvg-name="PowerTürk Slow(web)" group-title="TR youtube live",PowerTürk Slow (web)
+https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1628000_sltur.m3u8
+#EXTINF:0 tvg-id="" tvg-name="PowerTürk Taptaze(web)" group-title="TR youtube live",PowerTürk Taptaze (web)
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b1628000_sltur.m3u8
+#EXTINF:0 tvg-id="" tvg-name="PowerTürk En İyiler(web)" group-title="TR youtube live",PowerTürk En İyiler (web)
+https://listen.powerapp.com.tr/pturkeniyiler/eniyiler.smil/chunklist_b1628000_sltur.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Power Love(web)" group-title="TR youtube live",Power Love (web)
+https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1628000_sltur.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Power Plus +(web)" group-title="TR youtube live",Power Plus + (web)
+https://listen.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Kral Pop(web)" group-title="TR youtube live",Kral Pop(web)
+http://dygvideo.dygdigital.com/live/hls/puhukralpopdai?m3u8
+#EXTINF:0 tvg-id="" tvg-name="Kafa Radyo(YT)" group-title="TR youtube live",Kafa Radyo(YT)
+http://127.0.0.1:8088/https://www.youtube.com/@KafaRadyo/live
+#EXTINF:0 tvg-id="" tvg-name="Pal Nostalji (Canlı Radyo)(YT)***" group-title="TR youtube live",Pal Nostalji (Canlı Radyo)(YT)***
+http://127.0.0.1:8088/https://www.youtube.com/watch?v=ZwTxkDiz18I
+#EXTINF:0 tvg-id="" tvg-name="Radyo 45lik (Canlı Radyo)(YT)***" group-title="TR youtube live",Radyo 45lik (Canlı Radyo) (YT)***
+http://127.0.0.1:8088/https://www.youtube.com/watch?v=Oy7R1dfzJbQ
+#EXTINF:0 tvg-id="" tvg-name="Turkuvaz Nostalji (Canlı Radyo)(YT)***" group-title="TR youtube live",Turkuvaz Nostalji (Canlı Radyo)(YT)***
+http://127.0.0.1:8088/https://www.youtube.com/watch?v=eVovtalD3H4
+#EXTINF:0 tvg-id="" tvg-name="JoyTurk Canlı Radyo Yayını (YT)***" group-title="TR youtube live",JoyTurk Canlı Radyo Yayını (YT)***"
+http://127.0.0.1:8088/https://www.youtube.com/watch?v=mOd6_kkWgvs/live
+#EXTINF:0 tvg-id="" tvg-name="Joy FM Canlı Radyo Yayını (YT)***" group-title="TR youtube live",Joy FM Canlı Radyo Yayını (YT)***
+http://127.0.0.1:8088/https://www.youtube.com/watch?v=U9uRXgn4bbg/live
+#EXTINF:0 tvg-id="" tvg-name="Retro Music Television(web)" group-title="TR youtube live",Retro Music Television (web)
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Biz Music (web)" group-title="TR youtube live",Biz Music (Özbek)(web)
+http://st.biztv.uz/hls/m_hi/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Nevo Music (Özbek)(YT)***" group-title="TR youtube live",Nevo Music (Özbek)(YT)***
+http://127.0.0.1:8088/https://www.youtube.com/watch?v=7LtTjMQTdpE
+#EXTINF:0 tvg-id="" tvg-name="Mathur TV (Başkır ve Tatar) Матур ТВ(web)" group-title="TR youtube live",Mathur TV (Başkır ve Tatar) Матур ТВ (web)
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Eurovision Song Contest(not 24/7 YT)" group-title="TR youtube live",Eurovision Song Contest(not 24/7 YT)
+http://127.0.0.1:8088/https://www.youtube.com/@EurovisionSongContest/live
+#EXTINF:0 tvg-id="" tvg-name="Kukuli(YT)" group-title="TR youtube live",Kukuli(YT)
+http://127.0.0.1:8088/https://www.youtube.com/@Kukuli/live
+#EXTINF:0 tvg-id="" tvg-name="Konuşan Tom ve Arkadaşları Türkiye(YT)" group-title="TR youtube live",Konuşan Tom ve Arkadaşları Türkiye(YT)
+http://127.0.0.1:8088/https://www.youtube.com/@TalkingFriendsTR/live
+#EXTINF:0 tvg-id="" tvg-name="DW English (Almanya)(YT)" group-title="TR youtube live",DW English (Almanya)(YT)
+http://127.0.0.1:8088/https://www.youtube.com/c/dwnews/live
+#EXTINF:0 tvg-id="" tvg-name="France 24 (Fransa)(YT)" group-title="TR youtube live",France 24 (Fransa)(YT)
+http://127.0.0.1:8088/https://www.youtube.com/c/FRANCE24English/live
+#EXTINF:0 tvg-id="" tvg-name="ABC News (ABD) (YT)" group-title="TR youtube live",ABC News (ABD)(YT)
+http://127.0.0.1:8088/https://www.youtube.com/c/ABCNews/live
+#EXTINF:0 tvg-id="" tvg-name="ABC News (Avusturalya) (YT)" group-title="TR youtube live",ABC News (Avusturalya)(YT)
+http://127.0.0.1:8088/https://www.youtube.com/c/NewsOnABC/live
+#EXTINF:0 tvg-id="" tvg-name="Al Jazeera English (Katar) (YT)" group-title="TR youtube live",Al Jazeera English (Katar)(YT)
+http://127.0.0.1:8088/https://www.youtube.com/c/aljazeeraenglish/live
+#EXTINF:0 tvg-id="" tvg-name="Sky News (YT)" group-title="TR youtube live",Sky News(YT)
+http://127.0.0.1:8088/https://www.youtube.com/c/SkyNews/live
+#EXTINF:0 tvg-id="" tvg-name="NBC News (YT)" group-title="TR youtube live",NBC News(YT)
+http://127.0.0.1:8088/https://www.youtube.com/c/NBCNews/live
+#EXTINF:0 tvg-id="" tvg-name="Reuters (1080p)(web)" group-title="TR youtube live",Reuters (1080p)(web)
+https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="RT NEWS(Rusya)(web)" group-title="TR youtube live",RT NEWS(Rusya)(web)
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Press TV (İran)(web)" group-title="TR youtube live",Press TV (İran)(web)
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="ATR(Kırım)(YT)" group-title="TR youtube live",ATR(Kırım)(YT)
+http://127.0.0.1:8088/https://www.youtube.com/@boysunmagan/live
+#EXTINF:0 tvg-id="" tvg-name="Millet(Kırım)(YT)" group-title="TR youtube live",Millet(Kırım)(YT)
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Q-TV(Kırım)(YT)" group-title="TR youtube live",Q-TV(Kırım)(YT)
+http://127.0.0.1:8088/https://www.youtube.com/@CrimeanTatars/live
+#EXTINF:0 tvg-id="" tvg-name="NASA TV(web)" group-title="TR youtube live",NASA TV(web)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
