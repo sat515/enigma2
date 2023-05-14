@@ -5,6 +5,8 @@ http://127.0.0.1:8088/https://www.youtube.com/@Sozcutelevizyonu/live
 http://127.0.0.1:8088/https://www.youtube.com/@Halktvkanali/live
 #EXTINF:0 tvg-id="" tvg-name="KRT TV TV (YT)" group-title="TR youtube live",KRT TV (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@KRTTVCanliYayin/live
+#EXTINF:0 tvg-id="" tvg-name="FOX Türkçe (not 24/7 YT)" group-title="TR youtube live",FOX Türkçe (not 24/7 YT)
+http://127.0.0.1:8088/https://www.youtube.com/@FOXTurkiye/live
 #EXTINF:0 tvg-id="" tvg-name="Tele 1 (YT)" group-title="TR youtube live",Tele 1 (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@Tele1comtr/live
 #EXTINF:0 tvg-id="Haberturk.tr" tvg-name="Habertürk TV (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber_turk.png" group-title="TR youtube live",Habertürk (YT)
@@ -17,6 +19,8 @@ http://127.0.0.1:8088/https://www.youtube.com/@cnnturk/live
 http://127.0.0.1:8088/https://www.youtube.com/@haberglobal/live
 #EXTINF:0 tvg-id="" tvg-name="TV 100 (YT)" group-title="TR youtube live",TV 100 (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@tv100/live
+#EXTINF:0 tvg-id="" tvg-name="GAİN Haber (not 24/7 YT)" group-title="TR youtube live",GAİN Haber (not 24/7 YT)
+http://127.0.0.1:8088/https://www.youtube.com/@gainhaber/live
 #EXTINF:0 tvg-id="" tvg-name="TRT Haber (YT)" group-title="TR youtube live",TRT Haber (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@trthaber/live
 #EXTINF:0 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bloomberg-ht-us-tr.png" group-title="TR youtube live",Bloomberg HT (YT)
