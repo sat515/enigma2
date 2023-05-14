@@ -99,3 +99,7 @@ http://live.trkmillet.ru/millet/index.m3u8
 http://127.0.0.1:8088/https://www.youtube.com/@CrimeanTatars/live
 #EXTINF:0 tvg-id="" tvg-name="NASA TV(web)" group-title="TR youtube live",NASA TV(web)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Anka Haber Ajansı(not 24/7 YT)" group-title="TR youtube live",Anka Haber Ajansı(not 24/7 YT)
+http://127.0.0.1:8088/https://www.youtube.com/@ankahaberajans/live
+#EXTINF:0 tvg-id="" tvg-name="Anadolu Ajansı(not 24/7 YT)" group-title="TR youtube live",Anadolu Ajansı(not 24/7 YT)
+http://127.0.0.1:8088/https://www.youtube.com/@anadoluajansi/live
