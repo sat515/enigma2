@@ -73,6 +73,8 @@ http://127.0.0.1:8088/https://www.youtube.com/@Kukuli/live
 http://127.0.0.1:8088/https://www.youtube.com/@TalkingFriendsTR/live
 #EXTINF:0 tvg-id="" tvg-name="DW English (Almanya)(YT)" group-title="TR youtube live",DW English (Almanya)(YT)
 http://127.0.0.1:8088/https://www.youtube.com/c/dwnews/live
+#EXTINF:0 tvg-id="" tvg-name="DW Türkçe (Almanya)(not 24/7 YT)" group-title="TR youtube live",DW Türkçe (Almanya)(not 24/7 YT)
+http://127.0.0.1:8088/https://www.youtube.com/@dwturkce/live
 #EXTINF:0 tvg-id="" tvg-name="France 24 (Fransa)(YT)" group-title="TR youtube live",France 24 (Fransa)(YT)
 http://127.0.0.1:8088/https://www.youtube.com/c/FRANCE24English/live
 #EXTINF:0 tvg-id="" tvg-name="ABC News (ABD) (YT)" group-title="TR youtube live",ABC News (ABD)(YT)
