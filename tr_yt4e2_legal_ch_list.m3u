@@ -31,7 +31,7 @@ https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8http://127.0.0.1:8088/https://ww
 http://127.0.0.1:8088/https://www.youtube.com/@teve2/live
 #EXTINF:0 tvg-id="" tvg-name="EUROSTAR (web)" group-title="TR youtube live",EUROSTAR (web)
 http://127.0.0.1:8088/q=720p/http://www.eurostartv.com.tr/canli-izle
-#EXTINF:0 tvg-id="" tvg-name="PowerTürk(web)" group-title="TR youtube live",PowerTürk(web)
+#EXTINF:0 tvg-id="" tvg-name="PowerTürk(web)" group-title="TR youtube live",PowerTürk (web)
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
 #EXTINF:0 tvg-id="" tvg-name="PowerTürk Akustik(web)" group-title="TR youtube live",PowerTürk Akustik (web)
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1628000_sltur.m3u8
@@ -49,11 +49,11 @@ https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1628000_sltur.m3u8
 https://listen.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Kral Pop(web)" group-title="TR youtube live",Kral Pop(web)
 http://dygvideo.dygdigital.com/live/hls/puhukralpopdai?m3u8
-#EXTINF:0 tvg-id="" tvg-name="Kafa Radyo(YT)" group-title="TR youtube live",Kafa Radyo(YT)
+#EXTINF:0 tvg-id="" tvg-name="Kafa Radyo(YT)" group-title="TR youtube live",Kafa Radyo (Canlı Radyo)(YT)
 http://127.0.0.1:8088/https://www.youtube.com/@KafaRadyo/live
 #EXTINF:0 tvg-id="" tvg-name="Pal Nostalji (Canlı Radyo)(YT)***" group-title="TR youtube live",Pal Nostalji (Canlı Radyo)(YT)***
 http://127.0.0.1:8088/https://www.youtube.com/watch?v=ZwTxkDiz18I
-#EXTINF:0 tvg-id="" tvg-name="Radyo 45lik (Canlı Radyo)(YT)***" group-title="TR youtube live",Radyo 45lik (Canlı Radyo) (YT)***
+#EXTINF:0 tvg-id="" tvg-name="Radyo 45lik (Canlı Radyo)(YT)***" group-title="TR youtube live",Radyo 45lik (Canlı Radyo)(YT)***
 http://127.0.0.1:8088/https://www.youtube.com/watch?v=Oy7R1dfzJbQ
 #EXTINF:0 tvg-id="" tvg-name="Turkuvaz Nostalji (Canlı Radyo)(YT)***" group-title="TR youtube live",Turkuvaz Nostalji (Canlı Radyo)(YT)***
 http://127.0.0.1:8088/https://www.youtube.com/watch?v=eVovtalD3H4
@@ -69,11 +69,11 @@ http://st.biztv.uz/hls/m_hi/index.m3u8
 http://127.0.0.1:8088/https://www.youtube.com/watch?v=7LtTjMQTdpE
 #EXTINF:0 tvg-id="" tvg-name="Mathur TV (Başkır ve Tatar) Матур ТВ(web)" group-title="TR youtube live",Mathur TV (Başkır ve Tatar) Матур ТВ (web)
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:0 tvg-id="" tvg-name="Eurovision Song Contest(not 24/7 YT)" group-title="TR youtube live",Eurovision Song Contest(not 24/7 YT)
+#EXTINF:0 tvg-id="" tvg-name="Eurovision Song Contest(not 24/7 YT)" group-title="TR youtube live",Eurovision Song Contest (not 24/7 YT)
 http://127.0.0.1:8088/https://www.youtube.com/@EurovisionSongContest/live
-#EXTINF:0 tvg-id="" tvg-name="Kukuli(YT)" group-title="TR youtube live",Kukuli(YT)
+#EXTINF:0 tvg-id="" tvg-name="Kukuli(YT)" group-title="TR youtube live",Kukuli (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@Kukuli/live
-#EXTINF:0 tvg-id="" tvg-name="Konuşan Tom ve Arkadaşları Türkiye(YT)" group-title="TR youtube live",Konuşan Tom ve Arkadaşları Türkiye(YT)
+#EXTINF:0 tvg-id="" tvg-name="Konuşan Tom ve Arkadaşları Türkiye(YT)" group-title="TR youtube live",Konuşan Tom ve Arkadaşları Türkiye (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@TalkingFriendsTR/live
 #EXTINF:0 tvg-id="" tvg-name="DW English (Almanya)(YT)" group-title="TR youtube live",DW English (Almanya)(YT)
 http://127.0.0.1:8088/https://www.youtube.com/c/dwnews/live
@@ -87,25 +87,25 @@ http://127.0.0.1:8088/https://www.youtube.com/c/ABCNews/live
 http://127.0.0.1:8088/https://www.youtube.com/c/NewsOnABC/live
 #EXTINF:0 tvg-id="" tvg-name="Al Jazeera English (Katar) (YT)" group-title="TR youtube live",Al Jazeera English (Katar)(YT)
 http://127.0.0.1:8088/https://www.youtube.com/c/aljazeeraenglish/live
-#EXTINF:0 tvg-id="" tvg-name="Sky News (YT)" group-title="TR youtube live",Sky News(YT)
+#EXTINF:0 tvg-id="" tvg-name="Sky News (YT)" group-title="TR youtube live",Sky News (YT)
 http://127.0.0.1:8088/https://www.youtube.com/c/SkyNews/live
-#EXTINF:0 tvg-id="" tvg-name="NBC News (YT)" group-title="TR youtube live",NBC News(YT)
+#EXTINF:0 tvg-id="" tvg-name="NBC News (YT)" group-title="TR youtube live",NBC News (YT)
 http://127.0.0.1:8088/https://www.youtube.com/c/NBCNews/live
 #EXTINF:0 tvg-id="" tvg-name="Reuters (1080p)(web)" group-title="TR youtube live",Reuters (1080p)(web)
 https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="RT NEWS(Rusya)(web)" group-title="TR youtube live",RT NEWS(Rusya)(web)
+#EXTINF:0 tvg-id="" tvg-name="RT NEWS(Rusya)(web)" group-title="TR youtube live",RT NEWS (Rusya)(web)
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Press TV (İran)(web)" group-title="TR youtube live",Press TV (İran)(web)
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="ATR(Kırım)(YT)" group-title="TR youtube live",ATR(Kırım)(YT)
+#EXTINF:0 tvg-id="" tvg-name="ATR(Kırım)(YT)" group-title="TR youtube live",ATR (Kırım)(YT)
 http://127.0.0.1:8088/https://www.youtube.com/@boysunmagan/live
-#EXTINF:0 tvg-id="" tvg-name="Millet(Kırım)(YT)" group-title="TR youtube live",Millet(Kırım)(YT)
+#EXTINF:0 tvg-id="" tvg-name="Millet(Kırım)(YT)" group-title="TR youtube live",Millet (Kırım)(YT)
 http://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="Q-TV(Kırım)(YT)" group-title="TR youtube live",Q-TV(Kırım)(YT)
+#EXTINF:0 tvg-id="" tvg-name="Q-TV(Kırım)(YT)" group-title="TR youtube live",Q-TV (Kırım)(YT)
 http://127.0.0.1:8088/https://www.youtube.com/@CrimeanTatars/live
-#EXTINF:0 tvg-id="" tvg-name="NASA TV(web)" group-title="TR youtube live",NASA TV(web)
+#EXTINF:0 tvg-id="" tvg-name="NASA TV(web)" group-title="TR youtube live",NASA TV (web)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:0 tvg-id="" tvg-name="Anka Haber Ajansı(not 24/7 YT)" group-title="TR youtube live",Anka Haber Ajansı(not 24/7 YT)
+#EXTINF:0 tvg-id="" tvg-name="Anka Haber Ajansı(not 24/7 YT)" group-title="TR youtube live",Anka Haber Ajansı (not 24/7 YT)
 http://127.0.0.1:8088/https://www.youtube.com/@ankahaberajans/live
-#EXTINF:0 tvg-id="" tvg-name="Anadolu Ajansı(not 24/7 YT)" group-title="TR youtube live",Anadolu Ajansı(not 24/7 YT)
+#EXTINF:0 tvg-id="" tvg-name="Anadolu Ajansı(not 24/7 YT)" group-title="TR youtube live",Anadolu Ajansı (not 24/7 YT)
 http://127.0.0.1:8088/https://www.youtube.com/@anadoluajansi/live
