@@ -27,6 +27,10 @@ http://127.0.0.1:8088/https://www.youtube.com/@trthaber/live
 http://127.0.0.1:8088/https://www.youtube.com/@bloomberght/live
 #EXTINF:0 tvg-id="Ekoturk.tr" tvg-name="Ekotürk (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekoturk-tr.png" group-title="TR youtube live",Ekotürk (YT)
 https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8http://127.0.0.1:8088/https://www.youtube.com/@EKOTURKTV/live
+#EXTINF:0 tvg-id="" tvg-name="Bloomberg Originals (YT)" group-title="TR youtube live",Bloomberg Originals (YT)
+http://127.0.0.1:8088/https://www.youtube.com/@business/live
+#EXTINF:0 tvg-id="" tvg-name="CNBC Marathon-Documentaries and deep dives (YT)" group-title="TR youtube live",CNBC Marathon-Documentaries and deep dives (YT)
+http://127.0.0.1:8088/https://www.youtube.com/@CNBC/live
 #EXTINF:0 tvg-id="" tvg-name="Teve 2 (YT)" group-title="TR youtube live",Teve 2 (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@teve2/live
 #EXTINF:0 tvg-id="" tvg-name="EUROSTAR (web)" group-title="TR youtube live",EUROSTAR (web)
