@@ -13,6 +13,8 @@ http://127.0.0.1:8088/https://www.youtube.com/@Tele1comtr/live
 http://127.0.0.1:8088/https://www.youtube.com/@haberturktv/live
 #EXTINF:0 tvg-id="Haberturk.tr" tvg-name="Flash HaberTV (YT)" group-title="TR youtube live",Flash HaberTV (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@FlashHaberTV/live
+#EXTINF:0 tvg-id="" tvg-name="Cüneyt Özdemir (not 24/7 YT)" group-title="TR youtube live",Cüneyt Özdemir (not 24/7 YT)
+http://127.0.0.1:8088/https://www.youtube.com/@cuneytozdemir/live
 #EXTINF:0 tvg-id="NTV.tr" tvg-name="NTV (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_tr.png" group-title="TR youtube live",NTV (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@NTV/live
 #EXTINF:0 tvg-id="CNNTurk.tr" tvg-name="CNN Türk (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_turk.png" group-title="TR youtube live",CNN Türk (YT)
@@ -33,6 +35,10 @@ https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8http://127.0.0.1:8088/https://ww
 http://127.0.0.1:8088/https://www.youtube.com/@INFOYATIRIM/live
 #EXTINF:0 tvg-id="" tvg-name="Bloomberg Originals (YT)" group-title="TR youtube live",Bloomberg Originals (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@business/live
+#EXTINF:0 tvg-id="" tvg-name="BLOOMBERG PLUS (web)" group-title="TR youtube live",BLOOMBERG PLUS (web)
+https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="BLOOMBERG EU (web)" group-title="TR youtube live",BLOOMBERG EU (web)
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:0 tvg-id="" tvg-name="CNBC Marathon-Documentaries and deep dives (YT)" group-title="TR youtube live",CNBC Marathon-Documentaries and deep dives (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@CNBC/live
 #EXTINF:0 tvg-id="" tvg-name="Yahoo! Finance (web)" group-title="TR youtube live",Yahoo! Finance (web)
@@ -45,17 +51,17 @@ https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
 http://127.0.0.1:8088/https://www.youtube.com/@teve2/live
 #EXTINF:0 tvg-id="" tvg-name="EUROSTAR (web)" group-title="TR youtube live",EUROSTAR (web)
 http://127.0.0.1:8088/q=720p/http://www.eurostartv.com.tr/canli-izle
-#EXTINF:0 tvg-id="" tvg-name="PowerTürk(web)" group-title="TR youtube live",PowerTürk (web)
+#EXTINF:0 tvg-id="" tvg-name="PowerTürk (web)" group-title="TR youtube live",PowerTürk (web)
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
-#EXTINF:0 tvg-id="" tvg-name="PowerTürk Akustik(web)" group-title="TR youtube live",PowerTürk Akustik (web)
+#EXTINF:0 tvg-id="" tvg-name="PowerTürk Akustik (web)" group-title="TR youtube live",PowerTürk Akustik (web)
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1628000_sltur.m3u8
-#EXTINF:0 tvg-id="" tvg-name="Joy Türk Akustik(YT)" group-title="TR youtube live",Joy Türk Akustik (YT)
+#EXTINF:0 tvg-id="" tvg-name="Joy Türk Akustik (YT)" group-title="TR youtube live",Joy Türk Akustik (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@joyturkakustik/live
-#EXTINF:0 tvg-id="" tvg-name="PowerTürk Slow(web)" group-title="TR youtube live",PowerTürk Slow (web)
+#EXTINF:0 tvg-id="" tvg-name="PowerTürk Slow (web)" group-title="TR youtube live",PowerTürk Slow (web)
 https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1628000_sltur.m3u8
-#EXTINF:0 tvg-id="" tvg-name="PowerTürk Taptaze(web)" group-title="TR youtube live",PowerTürk Taptaze (web)
+#EXTINF:0 tvg-id="" tvg-name="PowerTürk Taptaze (web)" group-title="TR youtube live",PowerTürk Taptaze (web)
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunklist_b1628000_sltur.m3u8
-#EXTINF:0 tvg-id="" tvg-name="PowerTürk En İyiler(web)" group-title="TR youtube live",PowerTürk En İyiler (web)
+#EXTINF:0 tvg-id="" tvg-name="PowerTürk En İyiler (web)" group-title="TR youtube live",PowerTürk En İyiler (web)
 https://listen.powerapp.com.tr/pturkeniyiler/eniyiler.smil/chunklist_b1628000_sltur.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Power Love(web)" group-title="TR youtube live",Power Love (web)
 https://listen.powerapp.com.tr/plove/love.smil/chunklist_b1628000_sltur.m3u8
@@ -75,8 +81,10 @@ http://127.0.0.1:8088/https://www.youtube.com/watch?v=eVovtalD3H4
 http://127.0.0.1:8088/https://www.youtube.com/watch?v=mOd6_kkWgvs/live
 #EXTINF:0 tvg-id="" tvg-name="Joy FM Canlı Radyo Yayını (YT)***" group-title="TR youtube live",Joy FM Canlı Radyo Yayını (YT)***
 http://127.0.0.1:8088/https://www.youtube.com/watch?v=U9uRXgn4bbg/live
-#EXTINF:0 tvg-id="" tvg-name="Retro Music Television(web)" group-title="TR youtube live",Retro Music Television (web)
+#EXTINF:0 tvg-id="" tvg-name="Retro Music Television (web)" group-title="TR youtube live",Retro Music Television (web)
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="DELUXE MUSIC English (web)" group-title="TR youtube live",DELUXE MUSIC English (web)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Biz Music (web)" group-title="TR youtube live",Biz Music (Özbek)(web)
 http://st.biztv.uz/hls/m_hi/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Nevo Music (Özbek)(YT)***" group-title="TR youtube live",Nevo Music (Özbek)(YT)***
@@ -133,6 +141,8 @@ http://127.0.0.1:8088/https://www.youtube.com/@ABCLearningEnglish/live
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="ESA Web TV (YT)" group-title="TR youtube live",ESA Web TV (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@EuropeanSpaceAgency/live
+#EXTINF:0 tvg-id="" tvg-name="EUROPE BY SAT (web)" group-title="TR youtube live",EUROPE BY SAT (web)
+https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Anka Haber Ajansı(not 24/7 YT)" group-title="TR youtube live",Anka Haber Ajansı (not 24/7 YT)
 http://127.0.0.1:8088/https://www.youtube.com/@ankahaberajans/live
 #EXTINF:0 tvg-id="" tvg-name="Anadolu Ajansı(not 24/7 YT)" group-title="TR youtube live",Anadolu Ajansı (not 24/7 YT)
