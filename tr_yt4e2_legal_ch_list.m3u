@@ -31,6 +31,8 @@ http://127.0.0.1:8088/https://www.youtube.com/@trthaber/live
 http://127.0.0.1:8088/https://www.youtube.com/@bloomberght/live
 #EXTINF:0 tvg-id="Ekoturk.tr" tvg-name="Ekotürk (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekoturk-tr.png" group-title="TR youtube live",Ekotürk (YT)
 https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8http://127.0.0.1:8088/https://www.youtube.com/@EKOTURKTV/live
+#EXTINF:0 tvg-id="" tvg-name="Nasıl Bir Ekonomi TV (not 24/7 YT)" group-title="TR youtube live",Nasıl Bir Ekonomi TV (not 24/7 YT)
+http://127.0.0.1:8088/https://www.youtube.com/@nasilbirekonomi/live
 #EXTINF:0 tvg-id="" tvg-name="İnfo Yatırım (not 24/7 YT)" group-title="TR youtube live",İnfo Yatırım (not 24/7 YT)
 http://127.0.0.1:8088/https://www.youtube.com/@INFOYATIRIM/live
 #EXTINF:0 tvg-id="" tvg-name="Bloomberg Originals (YT)" group-title="TR youtube live",Bloomberg Originals (YT)
