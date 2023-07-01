@@ -11,8 +11,12 @@ http://127.0.0.1:8088/https://www.youtube.com/@FOXTurkiye/live
 http://127.0.0.1:8088/https://www.youtube.com/@Tele1comtr/live
 #EXTINF:0 tvg-id="Haberturk.tr" tvg-name="Habertürk TV (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber_turk.png" group-title="TR youtube live",Habertürk (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@haberturktv/live
-#EXTINF:0 tvg-id="Haberturk.tr" tvg-name="Flash HaberTV (YT)" group-title="TR youtube live",Flash HaberTV (YT)
+#EXTINF:0 tvg-id="" tvg-name="Flash Haber TV (YT)" group-title="TR youtube live",Flash Haber TV (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@FlashHaberTV/live
+#EXTINF:0 tvg-id="" tvg-name="MK Haber TV (web)" group-title="TR youtube live",MK Haber TV (web)
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+#EXTINF:0 tvg-id="" tvg-name="MK Haber TV (YT)" group-title="TR youtube live",MK Haber TV (YT)
+http://127.0.0.1:8088/https://www.youtube.com/@mkhabertv/live
 #EXTINF:0 tvg-id="" tvg-name="Cüneyt Özdemir (not 24/7 YT)" group-title="TR youtube live",Cüneyt Özdemir (not 24/7 YT)
 http://127.0.0.1:8088/https://www.youtube.com/@cuneytozdemir/live
 #EXTINF:0 tvg-id="NTV.tr" tvg-name="NTV (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_tr.png" group-title="TR youtube live",NTV (YT)
@@ -29,8 +33,10 @@ http://127.0.0.1:8088/https://www.youtube.com/@gainhaber/live
 http://127.0.0.1:8088/https://www.youtube.com/@trthaber/live
 #EXTINF:0 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bloomberg-ht-us-tr.png" group-title="TR youtube live",Bloomberg HT (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@bloomberght/live
-#EXTINF:0 tvg-id="Ekoturk.tr" tvg-name="Ekotürk (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekoturk-tr.png" group-title="TR youtube live",Ekotürk (YT)
-https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8http://127.0.0.1:8088/https://www.youtube.com/@EKOTURKTV/live
+#EXTINF:0 tvg-id="Ekoturk.tr" tvg-name="EkoTürk (web)" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekoturk-tr.png" group-title="TR youtube live",EkoTürk (web)
+https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
+#EXTINF:0 tvg-id="Ekoturk.tr" tvg-name="EkoTürk (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekoturk-tr.png" group-title="TR youtube live",EkoTürk (YT)
+http://127.0.0.1:8088/https://www.youtube.com/@EKOTURKTV/live
 #EXTINF:0 tvg-id="" tvg-name="Nasıl Bir Ekonomi TV (not 24/7 YT)" group-title="TR youtube live",Nasıl Bir Ekonomi TV (not 24/7 YT)
 http://127.0.0.1:8088/https://www.youtube.com/@nasilbirekonomi/live
 #EXTINF:0 tvg-id="" tvg-name="İnfo Yatırım (not 24/7 YT)" group-title="TR youtube live",İnfo Yatırım (not 24/7 YT)
