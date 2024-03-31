@@ -17,6 +17,8 @@ http://127.0.0.1:8088/https://www.youtube.com/@FlashHaberTV/live
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
 #EXTINF:0 tvg-id="" tvg-name="MK Haber TV (YT)" group-title="TR youtube live",MK Haber TV (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@mkhabertv/live
+#EXTINF:0 tvg-id="" tvg-name="Fatih Altaylı (not 24/7 YT)" group-title="TR youtube live",Fatih Altaylı (not 24/7 YT)
+http://127.0.0.1:8088/https://www.youtube.com/@fatihaltayli/live
 #EXTINF:0 tvg-id="" tvg-name="Cüneyt Özdemir (not 24/7 YT)" group-title="TR youtube live",Cüneyt Özdemir (not 24/7 YT)
 http://127.0.0.1:8088/https://www.youtube.com/@cuneytozdemir/live
 #EXTINF:0 tvg-id="NTV.tr" tvg-name="NTV (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_tr.png" group-title="TR youtube live",NTV (YT)
@@ -155,3 +157,5 @@ https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
 http://127.0.0.1:8088/https://www.youtube.com/@ankahaberajans/live
 #EXTINF:0 tvg-id="" tvg-name="Anadolu Ajansı(not 24/7 YT)" group-title="TR youtube live",Anadolu Ajansı (not 24/7 YT)
 http://127.0.0.1:8088/https://www.youtube.com/@anadoluajansi/live
+#EXTINF:0 tvg-id="" tvg-name="1 Kadın 1 Erkek (YT)" group-title="TR youtube live",1 Kadın 1 Erkek (YT)
+http://127.0.0.1:8088/https://www.youtube.com/@BirKadinBirErkek/live
