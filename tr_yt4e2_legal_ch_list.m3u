@@ -5,8 +5,8 @@ http://127.0.0.1:8088/https://www.youtube.com/@Sozcutelevizyonu/live
 http://127.0.0.1:8088/https://www.youtube.com/@Halktvkanali/live
 #EXTINF:0 tvg-id="" tvg-name="KRT TV TV (YT)" group-title="TR youtube live",KRT TV (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@KRTTVCanliYayin/live
-#EXTINF:0 tvg-id="" tvg-name="FOX Türkçe (not 24/7 YT)" group-title="TR youtube live",FOX Türkçe (not 24/7 YT)
-http://127.0.0.1:8088/https://www.youtube.com/@FOXTurkiye/live
+#EXTINF:0 tvg-id="" tvg-name="FOX Türkçe (not 24/7 YT)" group-title="TR youtube live",NOW Türkçe (not 24/7 YT)
+http://127.0.0.1:8088/https://www.youtube.com/@nowtvturkiye/live
 #EXTINF:0 tvg-id="" tvg-name="Tele 1 (YT)" group-title="TR youtube live",Tele 1 (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@Tele1comtr/live
 #EXTINF:0 tvg-id="Haberturk.tr" tvg-name="Habertürk TV (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber_turk.png" group-title="TR youtube live",Habertürk (YT)
@@ -29,8 +29,6 @@ http://127.0.0.1:8088/https://www.youtube.com/@cnnturk/live
 http://127.0.0.1:8088/https://www.youtube.com/@haberglobal/live
 #EXTINF:0 tvg-id="" tvg-name="TV 100 (YT)" group-title="TR youtube live",TV 100 (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@tv100/live
-#EXTINF:0 tvg-id="" tvg-name="GAİN Haber (not 24/7 YT)" group-title="TR youtube live",GAİN Haber (not 24/7 YT)
-http://127.0.0.1:8088/https://www.youtube.com/@gainhaber/live
 #EXTINF:0 tvg-id="" tvg-name="TRT Haber (YT)" group-title="TR youtube live",TRT Haber (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@trthaber/live
 #EXTINF:0 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT (YT)" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bloomberg-ht-us-tr.png" group-title="TR youtube live",Bloomberg HT (YT)
@@ -65,8 +63,6 @@ http://127.0.0.1:8088/q=720p/http://www.eurostartv.com.tr/canli-izle
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
 #EXTINF:0 tvg-id="" tvg-name="PowerTürk Akustik (web)" group-title="TR youtube live",PowerTürk Akustik (web)
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/chunklist_b1628000_sltur.m3u8
-#EXTINF:0 tvg-id="" tvg-name="Joy Türk Akustik (YT)" group-title="TR youtube live",Joy Türk Akustik (YT)
-http://127.0.0.1:8088/https://www.youtube.com/@joyturkakustik/live
 #EXTINF:0 tvg-id="" tvg-name="PowerTürk Slow (web)" group-title="TR youtube live",PowerTürk Slow (web)
 https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1628000_sltur.m3u8
 #EXTINF:0 tvg-id="" tvg-name="PowerTürk Taptaze (web)" group-title="TR youtube live",PowerTürk Taptaze (web)
@@ -87,10 +83,6 @@ http://127.0.0.1:8088/https://www.youtube.com/watch?v=ZwTxkDiz18I
 http://127.0.0.1:8088/https://www.youtube.com/watch?v=Oy7R1dfzJbQ
 #EXTINF:0 tvg-id="" tvg-name="Turkuvaz Nostalji (Canlı Radyo)(YT)***" group-title="TR youtube live",Turkuvaz Nostalji (Canlı Radyo)(YT)***
 http://127.0.0.1:8088/https://www.youtube.com/watch?v=eVovtalD3H4
-#EXTINF:0 tvg-id="" tvg-name="JoyTurk Canlı Radyo Yayını (YT)***" group-title="TR youtube live",JoyTurk Canlı Radyo Yayını (YT)***"
-http://127.0.0.1:8088/https://www.youtube.com/watch?v=mOd6_kkWgvs/live
-#EXTINF:0 tvg-id="" tvg-name="Joy FM Canlı Radyo Yayını (YT)***" group-title="TR youtube live",Joy FM Canlı Radyo Yayını (YT)***
-http://127.0.0.1:8088/https://www.youtube.com/watch?v=U9uRXgn4bbg/live
 #EXTINF:0 tvg-id="" tvg-name="Retro Music Television (web)" group-title="TR youtube live",Retro Music Television (web)
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="DELUXE MUSIC English (web)" group-title="TR youtube live",DELUXE MUSIC English (web)
@@ -133,8 +125,6 @@ https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 http://127.0.0.1:8088/https://www.youtube.com/@euronews/live
 #EXTINF:0 tvg-id="" tvg-name="euronews (deutsch)(YT)" group-title="TR youtube live",euronews (deutsch)(YT)
 http://127.0.0.1:8088/https://www.youtube.com/@euronewsde/live
-#EXTINF:0 tvg-id="" tvg-name="CRI Türk (web)" group-title="TR youtube live",CRI Türk (web)
-https://stream.guventechnology.com:19360/criturktv/criturktv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Kanal D Drama (web)" group-title="TR youtube live",Kanal D Drama (web)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="travelxp (web)" group-title="TR youtube live",travelxp (web)
@@ -151,8 +141,6 @@ http://127.0.0.1:8088/https://www.youtube.com/@ABCLearningEnglish/live
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0 tvg-id="" tvg-name="ESA Web TV (YT)" group-title="TR youtube live",ESA Web TV (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@EuropeanSpaceAgency/live
-#EXTINF:0 tvg-id="" tvg-name="EUROPE BY SAT (web)" group-title="TR youtube live",EUROPE BY SAT (web)
-https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Anka Haber Ajansı(not 24/7 YT)" group-title="TR youtube live",Anka Haber Ajansı (not 24/7 YT)
 http://127.0.0.1:8088/https://www.youtube.com/@ankahaberajans/live
 #EXTINF:0 tvg-id="" tvg-name="Anadolu Ajansı(not 24/7 YT)" group-title="TR youtube live",Anadolu Ajansı (not 24/7 YT)
