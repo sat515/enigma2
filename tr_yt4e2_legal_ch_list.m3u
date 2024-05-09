@@ -157,3 +157,5 @@ http://127.0.0.1:8088/https://www.youtube.com/watch?v=KSYE-C1TuXo
 http://127.0.0.1:8088/hhttp://127.0.0.1:8088/https://www.youtube.com/@AvrupaYakasi/live
 #EXTINF:0 tvg-id="" tvg-name="Avrupa Yakası-2" group-title="TR youtube live",Avrupa Yakası-2
 http://127.0.0.1:8088/https://www.youtube.com/@AvrupaYakasi/streams/live
+#EXTINF:0 tvg-id="" tvg-name="Avrupa Yakası-3" group-title="TR youtube live",Avrupa Yakası-3
+http://127.0.0.1:8088/https://www.youtube.com/@AvrupaYakasi/streams
