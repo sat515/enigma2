@@ -147,15 +147,9 @@ http://127.0.0.1:8088/https://www.youtube.com/@ankahaberajans/live
 http://127.0.0.1:8088/https://www.youtube.com/@anadoluajansi/live
 #EXTINF:0 tvg-id="" tvg-name="1 Kadın 1 Erkek (YT)" group-title="TR youtube live",1 Kadın 1 Erkek (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@BirKadinBirErkek/live
-#EXTINF:0 tvg-id="" tvg-name="Eurovision-1" group-title="TR youtube live",Eurovision-1
-http://127.0.0.1:8088/https://www.youtube.com/@EurovisionSongContest/streams/live
 #EXTINF:0 tvg-id="" tvg-name="Eurovision-2" group-title="TR youtube live",Eurovision-2
 http://127.0.0.1:8088/https://www.youtube.com/@EurovisionSongContest/live
 #EXTINF:0 tvg-id="" tvg-name="Eurovision-3-yarı final" group-title="TR youtube live",Eurovision-3-yarı final
 http://127.0.0.1:8088/https://www.youtube.com/watch?v=KSYE-C1TuXo
 #EXTINF:0 tvg-id="" tvg-name="Avrupa Yakası" group-title="TR youtube live",Avrupa Yakası
-http://127.0.0.1:8088/hhttp://127.0.0.1:8088/https://www.youtube.com/@AvrupaYakasi/live
-#EXTINF:0 tvg-id="" tvg-name="Avrupa Yakası-2" group-title="TR youtube live",Avrupa Yakası-2
-http://127.0.0.1:8088/https://www.youtube.com/@AvrupaYakasi/streams/live
-#EXTINF:0 tvg-id="" tvg-name="Avrupa Yakası-3" group-title="TR youtube live",Avrupa Yakası-3
-http://127.0.0.1:8088/https://www.youtube.com/@AvrupaYakasi/streams
+http://127.0.0.1:8088/https://www.youtube.com/@AvrupaYakasi/live
