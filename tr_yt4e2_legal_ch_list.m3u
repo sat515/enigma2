@@ -147,9 +147,11 @@ http://127.0.0.1:8088/https://www.youtube.com/@ankahaberajans/live
 http://127.0.0.1:8088/https://www.youtube.com/@anadoluajansi/live
 #EXTINF:0 tvg-id="" tvg-name="1 Kadın 1 Erkek (YT)" group-title="TR youtube live",1 Kadın 1 Erkek (YT)
 http://127.0.0.1:8088/https://www.youtube.com/@BirKadinBirErkek/live
-#EXTINF:0 tvg-id="" tvg-name="Eurovision-2" group-title="TR youtube live",Eurovision-2
+#EXTINF:0 tvg-id="" tvg-name="Eurovision" group-title="TR youtube live",Eurovision
 http://127.0.0.1:8088/https://www.youtube.com/@EurovisionSongContest/live
-#EXTINF:0 tvg-id="" tvg-name="Eurovision-3-yarı final" group-title="TR youtube live",Eurovision-3-yarı final
-http://127.0.0.1:8088/https://www.youtube.com/watch?v=KSYE-C1TuXo
 #EXTINF:0 tvg-id="" tvg-name="Avrupa Yakası" group-title="TR youtube live",Avrupa Yakası
 http://127.0.0.1:8088/https://www.youtube.com/@AvrupaYakasi/live
+#EXTINF:0 tvg-id="" tvg-name="NTV Belgesel" group-title="TR youtube live",NTV Belgesel
+http://127.0.0.1:8088/https://www.youtube.com/@NTVBelgesel/live
+#EXTINF:0 tvg-id="" tvg-name="DMAX ** 7/24 Antik Mısır - Piramitler" group-title="TR youtube live",DMAX ** 7/24 Antik Mısır - Piramitler
+http://127.0.0.1:8088/https://www.youtube.com/@DMAXTurkiye/live
